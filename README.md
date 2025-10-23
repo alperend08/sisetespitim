@@ -95,6 +95,5 @@ Toplam Tespit: 21 şişe
 
 👨‍💻 Geliştirici
 
-Alperen Demirel
-📚 Elektrik-Elektronik Mühendisliği
+Alperen D
 💡 Görüntü İşleme • Yapay Zeka • Otomasyon Sistemleri
